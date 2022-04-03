@@ -47,5 +47,4 @@ class HistorySource(private val contentResolver: ContentResolver) {
             put(TEMPERATURE, entity.temperature)
         }
     }
-
 }
